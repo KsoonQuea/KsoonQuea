@@ -1,9 +1,9 @@
 # Hi there, My name is **Sohai Quea** 👋 Feel free to call me *Sohai*
-🔭: I am a Computer Science student from *Universiti Tun Hussein Onn Malaysia (UTHM)*
+🔭: I am a normal person aka web developer, code farmer
 
 ### Some fun fact about me
 :smile: I am... 
-- So Ocean 🤣🤣🤣
+- tak tau 🤣🤣🤣
 
 ### List of Skills
 🌱: I am passionate in **Web, App development**.
@@ -32,18 +32,15 @@
 - :golf: Improve my Web & App Development skills
 
 ### Connection
-- 📫 How to reach me: limshisong123@gmail.com
+- 📫 How to reach me: shunsoon9587@gmail.com
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/XPH0816/count.svg" />
+  <img src="https://profile-counter.glitch.me/KsoonQuea/count.svg" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xph0816&layout=compact&theme=tokyonight)](https://github.com/XPH0816)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KsoonQuea&layout=compact&theme=tokyonight)](https://github.com/KsoonQuea)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xph0816&show_icons=true&theme=tokyonight)](https://github.com/XPH0816)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KsoonQuea&show_icons=true&theme=tokyonight)](https://github.com/KsoonQuea)
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/limshisongb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
