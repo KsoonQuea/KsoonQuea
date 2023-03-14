@@ -1,35 +1,31 @@
-# Hi there, My name is **Sohai Quea** 👋 Feel free to call me *Sohai*
-🔭: I am a normal person aka web developer, code farmer
+# Hi there, My name is **Quea Kuang Soon** 👋 Feel free to call me *KS*
+🔭: I am the code farmer and small trader
 
 ### Some fun fact about me
 :smile: I am... 
-- tak tau 🤣🤣🤣
+- the full time code farmer, part time trader 🤣🤣🤣
 
 ### List of Skills
 🌱: I am passionate in **Web, App development**.
 
 1. For :spider_web: **Web Dev**
    - HTML & CSS
-   - Front-End: JavaScript
+   - Front-End: JavaScript, Tailwind
    - Back-End: PHP
    - Framework: BootStrap, Laravel
 
-2. For :iphone: **App Dev**
-   - Flutter
+2. For : phone : **App Dev**
+   - Kotlin
    - Backend: Laravel (PHP)
-
-3. For :computer: **Desktop App Dev**
-   - Python
-   - Library: PyQT5
 
 4. Other **Skills**
    - C++, Java
    - MySQL
-   - Python
-   - Linux
 
 ### Current Plan
-- :golf: Improve my Web & App Development skills
+- :golf: 
+  =>Improve my Web & App Development skills
+  =>Study in IOT, Robotic in future
 
 ### Connection
 - 📫 How to reach me: shunsoon9587@gmail.com
