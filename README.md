@@ -23,9 +23,9 @@
    - MySQL
 
 ### Current Plan
-- :golf: 
-  Improve my Web & App Development skills,
-  Study in IOT, Robotic in future
+- :golf: Improve my Web & App Development skills
+- 🚩Study in IOT, Robotic in future
+- 🗒️Improve self management with Notion
 
 ### Connection
 - 📫 How to reach me: shunsoon9587@gmail.com
