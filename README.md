@@ -24,8 +24,8 @@
 
 ### Current Plan
 - :golf: 
-  =>Improve my Web & App Development skills
-  =>Study in IOT, Robotic in future
+  Improve my Web & App Development skills,
+  Study in IOT, Robotic in future
 
 ### Connection
 - 📫 How to reach me: shunsoon9587@gmail.com
