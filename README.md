@@ -1,9 +1,5 @@
 # Hi there, My name is **Quea Kuang Soon** 👋 Feel free to call me *KS*
-🔭: I am the code farmer and small trader
-
-### Some fun fact about me
-:smile: I am... 
-- the full time code farmer
+🔭: I am the code farmer
 
 ### List of Skills
 🌱: I am passionate in **Web, App development**.
@@ -17,18 +13,14 @@
 2. For : phone : **App Dev**
    - Kotlin
    - Backend: Laravel (PHP)
+   - Python
 
 4. Other **Skills**
    - C++, Java
    - MySQL
 
-### Current Plan
-- :golf: Improve my Web & App Development skills
-- 🚩Study in IOT, Robotic in future
-- 🗒️Improve self management with Notion
-
 ### Connection
-- 📫 How to reach me: shunsoon9587@gmail.com
+- 📫 How to reach me: kuangsoonquea@outlook.com
 
 <p align="center"> 
   Visitor count<br>
