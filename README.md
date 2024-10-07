@@ -3,7 +3,7 @@
 
 ### Some fun fact about me
 :smile: I am... 
-- the full time code farmer, part time trader 🤣🤣🤣
+- the full time code farmer
 
 ### List of Skills
 🌱: I am passionate in **Web, App development**.
